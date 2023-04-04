@@ -30,3 +30,7 @@ public class excercies_2 {
 	}
 
 }
+
+
+
+//this is for student project 
